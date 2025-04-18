@@ -32,12 +32,12 @@
 	<distributionManagement>
 		 <snapshotRepository>
 		    <id>shan</id>
-		    <url>http://13.57.254.107:8081/repository/snapshot/</url>
+		    <url>http://13.57.254.107:8081/repository/Snapshot/</url>
 		 </snapshotRepository>
 		
 		<repository>
 		    <id>shan</id>
-		    <url>http://13.57.254.107:8081/repository/release/</url>
+		    <url>http://13.57.254.107:8081/repository/Release/</url>
 		</repository>
   	</distributionManagement>
 	
